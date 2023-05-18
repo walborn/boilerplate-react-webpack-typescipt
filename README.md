@@ -6,12 +6,6 @@ A minimal secure boilerplate for writing Web Applications using [React](https://
 
 <br>
 
-## Screenshot
-
-<img src="assets/images/screenshot.png" />
-
-<br>
-
 ## Core Features
 
 - ⚛️ React
@@ -32,15 +26,15 @@ A minimal secure boilerplate for writing Web Applications using [React](https://
 
 #### To install this boilerplate you need to run following commands
 
-<br>
+<br />
 
 Clone the repository :
 
 ```bash
-git clone https://github.com/codesbiome/react-webpack-typescript-2022
+git clone git@github.com:walborn/boilerplate-react-webpack-typescipt.git
 ```
 
-<br>
+<br />
 
 Install dependencies using Yarn or NPM or PNPM :
 
